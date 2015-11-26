@@ -1,0 +1,16 @@
+C:\Users\Chris\Dropbox\MCAST\Second Year\First Semester\OOPED\Assignments\Program\DailyFitnessTracker\DailyFitnessTracker\bin\Debug\DailyFitnessTracker.exe.config
+C:\Users\Chris\Dropbox\MCAST\Second Year\First Semester\OOPED\Assignments\Program\DailyFitnessTracker\DailyFitnessTracker\bin\Debug\DailyFitness.mdf
+C:\Users\Chris\Dropbox\MCAST\Second Year\First Semester\OOPED\Assignments\Program\DailyFitnessTracker\DailyFitnessTracker\bin\Debug\DailyFitness_log.ldf
+C:\Users\Chris\Dropbox\MCAST\Second Year\First Semester\OOPED\Assignments\Program\DailyFitnessTracker\DailyFitnessTracker\bin\Debug\Physical\DailyFitness.mdf
+C:\Users\Chris\Dropbox\MCAST\Second Year\First Semester\OOPED\Assignments\Program\DailyFitnessTracker\DailyFitnessTracker\bin\Debug\Physical\DailyFitness_log.ldf
+C:\Users\Chris\Dropbox\MCAST\Second Year\First Semester\OOPED\Assignments\Program\DailyFitnessTracker\DailyFitnessTracker\bin\Debug\DailyFitnessTracker.exe
+C:\Users\Chris\Dropbox\MCAST\Second Year\First Semester\OOPED\Assignments\Program\DailyFitnessTracker\DailyFitnessTracker\bin\Debug\DailyFitnessTracker.pdb
+C:\Users\Chris\Dropbox\MCAST\Second Year\First Semester\OOPED\Assignments\Program\DailyFitnessTracker\DailyFitnessTracker\bin\Debug\EntityFramework.dll
+C:\Users\Chris\Dropbox\MCAST\Second Year\First Semester\OOPED\Assignments\Program\DailyFitnessTracker\DailyFitnessTracker\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Chris\Dropbox\MCAST\Second Year\First Semester\OOPED\Assignments\Program\DailyFitnessTracker\DailyFitnessTracker\bin\Debug\EntityFramework.xml
+C:\Users\Chris\Dropbox\MCAST\Second Year\First Semester\OOPED\Assignments\Program\DailyFitnessTracker\DailyFitnessTracker\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Chris\Dropbox\MCAST\Second Year\First Semester\OOPED\Assignments\Program\DailyFitnessTracker\DailyFitnessTracker\obj\Debug\DailyFitnessTracker.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Dropbox\MCAST\Second Year\First Semester\OOPED\Assignments\Program\DailyFitnessTracker\DailyFitnessTracker\obj\Debug\DailyFitnessTracker.Properties.Resources.resources
+C:\Users\Chris\Dropbox\MCAST\Second Year\First Semester\OOPED\Assignments\Program\DailyFitnessTracker\DailyFitnessTracker\obj\Debug\DailyFitnessTracker.csproj.GenerateResource.Cache
+C:\Users\Chris\Dropbox\MCAST\Second Year\First Semester\OOPED\Assignments\Program\DailyFitnessTracker\DailyFitnessTracker\obj\Debug\DailyFitnessTracker.exe
+C:\Users\Chris\Dropbox\MCAST\Second Year\First Semester\OOPED\Assignments\Program\DailyFitnessTracker\DailyFitnessTracker\obj\Debug\DailyFitnessTracker.pdb
